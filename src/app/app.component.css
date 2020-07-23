@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 70px;
+    margin: 30%;
+     
+}
+.square{
+    margin: auto;
+    height: 100vh;
+    width: 50%;    
+    border-style: dashed;
+    border-radius: 50%;  
+    
+
+}
+.sfondo {
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://www.fccrotone.it/wp-content/uploads/2020/01/fc-crotone-calcio-2019-2020-tw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
